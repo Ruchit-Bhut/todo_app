@@ -1,0 +1,12 @@
+{
+"dataList":"डेटा सूची",
+"edit":"संपादन करना",
+"addData":"डेटा जोड़ें",
+"updateData":"डेटा को अद्यतन करें",
+"insertData":"डेटा डालें",
+"delete":"मिटाना",
+"enterYourName":"अपना नाम दर्ज करें",
+"enterYourStudy":"अपना अध्ययन दर्ज करें",
+"pleaseRequiredFill":"कृपया आवश्यक भरें",
+"somethingWrong":"कुछ गड़बड़"
+}
